@@ -1,0 +1,36 @@
+title: BossCreeper (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: obj\B_EX390.mdlx
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: obj\B_EX390.mdlx
+- name: remastered\obj\B_EX390.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_EX390.mdlx\-0.dds
+- name: remastered\obj\B_EX390.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_EX390.mdlx\-1.dds
+- name: remastered\obj\B_EX390.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_EX390.mdlx\-2.dds
+- name: remastered\obj\B_EX390.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\B_EX390.mdlx\-3.dds
